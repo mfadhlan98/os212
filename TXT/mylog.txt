@@ -1,0 +1,6 @@
+# Lof Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETc/logCodes.txt
+ZCZC W00 10 L03 Github related
+ZCZC W00 100 L02 Synchronous Session
+ZCZC W00 30 L08 AsDos: asking for help
