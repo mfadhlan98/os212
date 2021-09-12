@@ -5,3 +5,5 @@ ZCZC W00 10 L03 Github related
 ZCZC W00 100 L02 Synchronous Session
 ZCZC W00 30 L08 asDos: asking for help
 ZCZC W00 60 L10 Assignment #00
+ZCZC W01 60 L10 Assignment #01
+ZCZC W01 60 L10 Assignment #02
