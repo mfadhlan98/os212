@@ -7,3 +7,5 @@ ZCZC W00 30 L08 asDos: asking for help
 ZCZC W00 60 L10 Assignment #00
 ZCZC W01 60 L10 Assignment #01
 ZCZC W01 60 L10 Assignment #02
+ZCZC W01 30 L10 Assignment #03
+ZCZC W01 30 L10 Assignment #04
