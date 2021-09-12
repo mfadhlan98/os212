@@ -23,6 +23,9 @@ I am {{ site.author }}, {{ site.address }}
 * [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
 * [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
 * [This is how me do it records](https://doit.vlsm.org/)
+* 
+* [TXT/mylog.txt](https://github.com/mfadhlan98/os212/blob/master/TXT/mylog.txt)
+* [GitHub](https://github.com/mfadhlan98)
 
 <br>
 ## Source Code
