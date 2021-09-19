@@ -12,6 +12,11 @@ Sebenarnya bisa pakai nano, tapi saya lebih dahulu mencoba link ini.
 Karena saya memilih option 1, jadi akun debian saya belum ada.
 Melalui link ini saya membuat akun debian with root access
 
-3. [w3docs](https://www.w3docs.com/learn-git/git-clone.html)
+3. [w3docs](https://www.w3docs.com/learn-git/git-clone.html)<br>
 Saya gagal di comman git clone, dan menemukan jawabannya disini.
 Selain git, ada juga tutorial untuk html css javascript dan PHP.
+
+4. [FRIV](www.friv.com)<br>
+Anak warnet pasti tau lah website ini. Lumayan berguna dikala itu.
+Jikalau kalian pengen refreshing dengan cara main game ringan, coba aja buka website ini.
+Bisa main multiplayer juga dengan menggunakan satu keyboard.
