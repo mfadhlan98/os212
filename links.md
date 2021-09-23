@@ -20,3 +20,15 @@ Selain git, ada juga tutorial untuk html css javascript dan PHP.
 Anak warnet pasti tau lah website ini. Lumayan berguna dikala itu.
 Jikalau kalian pengen refreshing dengan cara main game ringan, coba aja buka website ini.
 Bisa main multiplayer juga dengan menggunakan satu keyboard.
+
+5. [OBS](https://obsproject.com)<br>
+Ini software yang usefull banget. Karena kalau kalian ingin merekam layar monitor, bisa menggunakan software ini.
+saya mulai menggunakannya sejak 1 tahun yang lalu, sejak PJJ diberlakukan di Fasilkom.
+
+6. [Symbolab](https://www.symbolab.com/)<br>
+Jika sedang mangambil matkul kalkulus dan butuh kalkulator? Symbolab solusinya.
+Sangat berguna untuk membantu kalian mengerjakan PR Kalkulus.
+
+7. [W3Schools](https://www.w3schools.com/)<br>
+Situs web untuk melatih skill coding kalian semua.
+Banyak juga tersedia berbagai bahasa pemograman di situs ini. Silahkan mencoba.
