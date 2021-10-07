@@ -56,3 +56,15 @@ ZCZC W04  15 L17 Assignment #07
 ZCZC W04  15 L18 Assignment #08
 ZCZC W04  60 L19 Assignment #09
 ZCZC W04 160 L09 Weekly Assignments
+ZCZC W05 100 L02 Synchronous Session
+ZCZC W05 300 L80 Watching Netflix
+ZCZC W05  30 L11 Assignment #01
+ZCZC W05  10 L12 Assignment #02
+ZCZC W05  10 L13 Assignment #03
+ZCZC W05 150 L14 Assignment #04
+ZCZC W05  05 L15 Assignment #05
+ZCZC W05  00 L16 Assignment #06
+ZCZC W05  15 L17 Assignment #07
+ZCZC W05  15 L18 Assignment #08
+ZCZC W05  45 L19 Assignment #09
+ZCZC W05 280 L09 Weekly Assignments
