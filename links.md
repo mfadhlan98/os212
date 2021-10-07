@@ -44,3 +44,7 @@ Penjelasan lumayan panjang, semoga tidak mengantuk dibuatnya.
 10. [Linus Config](https://linuxconfig.org/c-development-on-linux-pointers-and-arrays-vi)<br>
 Penjelasan pointer di linux menggunakan C Dev.
 Selain pointer juga ada penjelsan mengenai arrays.
+
+11. [StackOverFlow](https://stackoverflow.com/questions/8208021/how-to-increment-a-pointer-address-and-pointers-value)<br>
+hint mymemory ada disini gaes.
+mana tau ada yang missing pas belajar kemarin.
