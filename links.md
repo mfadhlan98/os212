@@ -48,3 +48,6 @@ Selain pointer juga ada penjelsan mengenai arrays.
 11. [StackOverFlow](https://stackoverflow.com/questions/8208021/how-to-increment-a-pointer-address-and-pointers-value)<br>
 hint mymemory ada disini gaes.
 mana tau ada yang missing pas belajar kemarin.
+
+12. [Mako](https://mako.cc/writing/to_fork_or_not_to_fork.html)<br>
+To Fork or Not To Fork: Lessons From Ubuntu and Debian
