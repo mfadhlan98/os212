@@ -51,3 +51,9 @@ mana tau ada yang missing pas belajar kemarin.
 
 12. [Mako](https://mako.cc/writing/to_fork_or_not_to_fork.html)<br>
 To Fork or Not To Fork: Lessons From Ubuntu and Debian
+
+13. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+It's about IPC Shared Memory
+
+13. [Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
+It's about Semaphores in Operating System
