@@ -57,3 +57,6 @@ It's about IPC Shared Memory
 
 13. [Semaphores](https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 It's about Semaphores in Operating System
+
+14. [Disk Expand](https://www.pragmaticlinux.com/2020/09/how-to-increase-the-disk-size-in-a-virtualbox-virtual-machine/)<br>
+Tutorial cara expand disk sixe di VB
