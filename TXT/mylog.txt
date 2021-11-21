@@ -78,7 +78,7 @@ ZCZC W06  00 L16 Assignment #06
 ZCZC W06  20 L17 Assignment #07
 ZCZC W06  15 L18 Assignment #08
 ZCZC W06  60 L19 Assignment #09
-ZCZC W06 270 L09 Weekly Assignments
+ZCZC W06 190 L09 Weekly Assignments
 ZCZC W07 130 L02 Synchronous Session
 ZCZC W07 110 L32 Youtube. Play video from scele Forum.
 ZCZC W07  30 L11 Assignment #01
@@ -103,3 +103,18 @@ ZCZC W08  20 L17 Assignment #07
 ZCZC W08  20 L18 Assignment #08
 ZCZC W08  30 L19 Assignment #09
 ZCZC W08 800 L09 Weekly Assignments
+ZCZC W09  90 L02 Asynchronous Session
+ZCZC W09  50 L02 Synchronous Session
+ZCZC W09  60 L32 Youtube. Play video from scele Forum.
+ZCZC W09  30 L22 Quiz
+ZCZC W09  30 L11 Assignment #01
+ZCZC W09  15 L12 Assignment #02
+ZCZC W09  25 L13 Assignment #03
+ZCZC W09 400 L14 Assignment #04
+ZCZC W09  20 L15 Assignment #05
+ZCZC W09  00 L16 Assignment #06
+ZCZC W09  20 L17 Assignment #07
+ZCZC W09  20 L18 Assignment #08
+ZCZC W09  30 L19 Assignment #09
+ZCZC W09 500 L09 Weekly Assignments
+
