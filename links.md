@@ -60,3 +60,9 @@ It's about Semaphores in Operating System
 
 14. [Disk Expand](https://www.pragmaticlinux.com/2020/09/how-to-increase-the-disk-size-in-a-virtualbox-virtual-machine/)<br>
 Tutorial cara expand disk sixe di VB
+
+15. [Operating System Scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+Website ini membahas algoritma yang dipakai untuk scheduling di sistem operasi.
+
+16. [Introduction to RAID, Concepts of RAID and RAID Levels in Linux](https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/)<br>
+Website ini membahas RAID
