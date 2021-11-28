@@ -66,3 +66,15 @@ Website ini membahas algoritma yang dipakai untuk scheduling di sistem operasi.
 
 16. [Introduction to RAID, Concepts of RAID and RAID Levels in Linux](https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/)<br>
 Website ini membahas RAID
+
+17. [Difference between Latency and Jitter in OS](https://www.geeksforgeeks.org/difference-between-latency-and-jitter-in-os//)<br>
+This article help me to understand our material this week.
+
+18. [All problems at LFS](https://www.linuxquestions.org/questions/linux-from-scratch-13/)<br>
+Help on solving the problem, exclude my problem, idk why.
+
+19. [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)<br>
+The key for such problems is to use Faster I/O techniques.
+
+20. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Link di atas dapat membantu untuk memahami basic storage structure pada operating system.
